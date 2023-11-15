@@ -1,0 +1,16 @@
+input {
+    margin-bottom: 10px;
+}
+
+.error {
+    color: red;
+}
+div
+{
+    background-color: aqua;
+    width: 50%;
+    border: 2px solid;
+    border-radius: 25px;
+    text-align: center;
+    margin: auto;
+}
